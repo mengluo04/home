@@ -6,12 +6,6 @@
     <!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="%VITE_SITE_LOGO%" />
-    <link rel="apple-touch-icon" href="%VITE_SITE_APPLE_LOGO%" />
-    <link rel="bookmark" href="%VITE_SITE_APPLE_LOGO%" />
-    <link rel="apple-touch-icon-precomposed" sizes="200x200" href="%VITE_SITE_APPLE_LOGO%" />
-    <meta name="description" content="%VITE_SITE_DES%" />
-    <meta name="keywords" content="%VITE_SITE_KEYWORDS%" />
-    <meta name="author" content="%VITE_SITE_ANTHOR%" />
     <meta name="theme-color" content="#424242" />
     <title>%VITE_SITE_NAME%</title>
     <!-- HarmonyOS Sans -->
@@ -22,9 +16,17 @@
     <script>
       if (/*@cc_on!@*/ false || (!!window.MSInputMethodContext && !!document.documentMode))
         window.location.href =
-          'https://support.dmeng.net/upgrade-your-browser.html?referrer=' +
+          "https://support.dmeng.net/upgrade-your-browser.html?referrer=" +
           encodeURIComponent(window.location.href);
     </script>
+    <style>
+      .ad {
+        position: fixed;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    </style>
   </head>
 
   <body>
@@ -35,5 +37,8 @@
       <div style="text-align: center">请开启 JavaScript</div>
     </noscript>
     <script type="module" src="/src/main.js"></script>
+    <pre class="ad">
+      <a target="_blank" href=" http://www.freecdn.pw/?zzwz " title="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）" alt="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）">本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务</a>
+    </pre>
   </body>
 </html>

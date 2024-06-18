@@ -66,7 +66,7 @@ const siteUrl = computed(() => {
   position: absolute;
   bottom: 0;
   left: 0;
-  height: 46px;
+  height: 86px;
   line-height: 46px;
   text-align: center;
   z-index: 0;

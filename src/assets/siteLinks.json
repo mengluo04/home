@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Server",
+    "name": "NAS",
+    "link": "https://mengluo.quickconnect.cn/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://alist.mengluo.vip:12345/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Home",
+    "name": "后台",
+    "link": "https://admin.mengluo.vip"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Github",
+    "name": "Git服务器",
+    "link": "https://git.mengluo.vip:12345"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Video",
+    "name": "视频播放器",
+    "link": "https://emby.mengluo.vip:12345"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Github",
+    "name": "nginxwebui",
+    "link": "https://nc.mengluo.vip"
   }
 ]
