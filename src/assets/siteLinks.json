@@ -15,18 +15,28 @@
     "link": "https://admin.mengluo.vip"
   },
   {
+    "icon": "WikipediaW",
+    "name": "笔记",
+    "link": "https://wiki.mengluo.vip"
+  },
+  {
     "icon": "Github",
     "name": "Git服务器",
     "link": "https://git.mengluo.vip:12345"
   },
   {
-    "icon": "Video",
-    "name": "视频播放器",
-    "link": "https://emby.mengluo.vip:12345"
-  },
-  {
     "icon": "Github",
     "name": "nginxwebui",
     "link": "https://nc.mengluo.vip"
+  },
+  {
+    "icon": "Video",
+    "name": "多媒体",
+    "link": "https://emby.mengluo.vip:12345"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.mengluo.vip"
   }
 ]

@@ -55,7 +55,8 @@ import {
   Home,
   Github,
   Server,
-  Video
+  Video,
+  WikipediaW,
 } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -86,7 +87,8 @@ const siteIcon = {
   Home,
   Github,
   Server,
-  Video
+  Video,
+  WikipediaW
 };
 
 // 链接跳转
